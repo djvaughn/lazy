@@ -20,6 +20,7 @@
   "mini.icons": { "branch": "main", "commit": "86a633f0dffcfd80110bac86681dbf4b5c37ba5c" },
   "mini.pairs": { "branch": "main", "commit": "b90e36aa5ca5e0d825e77ad67aac22214a4d9096" },
   "mini.surround": { "branch": "main", "commit": "97796f68a8698d9b63ac3927da0d0bf5c3a0876b" },
+  "neo-tree.nvim": { "branch": "main", "commit": "69f798bf9493b84df660ac3c6b2fc03e23956d25" },
   "noice.nvim": { "branch": "main", "commit": "0427460c2d7f673ad60eb02b35f5e9926cf67c59" },
   "nui.nvim": { "branch": "main", "commit": "8d3bce9764e627b62b07424e0df77f680d47ffdb" },
   "nvim-lint": { "branch": "master", "commit": "93b8040115c9114dac1047311763bef275e752dc" },
